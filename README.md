@@ -1,5 +1,12 @@
 # web_api
+Created a ASP.NET Core Web API project in Visual Studio Code
 
 ## Technologies Used 
 
-[ ] .NET
+[ ] .NET Core 3.1 
+[ ] Visual Studio Code
+[ ] Swagger
+
+## Documentation 
+
+https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-8.0&tabs=visual-studio-code
